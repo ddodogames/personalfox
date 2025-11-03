@@ -26,3 +26,4 @@ user_pref("browser.aboutwelcome.enabled", false);
 user_pref("browser.tabs.unloadOnLowMemory", true);
 user_pref("browser.urlbar.suggest.engines", false);
 user_pref("browser.urlbar.suggest.searches", false);
+user_pref("layers.acceleration.disabled", false);
