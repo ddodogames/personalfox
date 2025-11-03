@@ -1,4 +1,4 @@
-// Get rid of normady
+// Get rid of normandy
 user_pref("app.normandy.api_url", "");
 user_pref("app.normandy.enabled", false);
 user_pref("app.normandy.first_run", false);
