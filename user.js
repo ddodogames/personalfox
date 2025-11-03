@@ -19,6 +19,9 @@ user_pref("browser.urlbar.wikipedia.featureGate", false);
 user_pref("browser.urlbar.amp.featureGate", false);
 user_pref("app.shield.optoutstudies.enabled", true);
 
+// Pretend this is Chrome running on Windows
+user_pref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3");
+
 // Extra stuff for myself
 user_pref("dom.ipc.processCount", 3);
 user_pref("general.smoothScroll", false);
