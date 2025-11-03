@@ -10,6 +10,7 @@ user_pref("browser.discovery.containers.enabled", false);
 user_pref("browser.ml.chat.enabled", false);
 user_pref("browser.ml.enable", false);
 user_pref("extensions.ml.enabled", false);
+user_pref("browser.ml.chat.sidebar", false);
 user_pref("browser.formfill.enable", false);
 user_pref("browser.urlbar.trimURLs", false);
 user_pref("browser.urlbar.trending.featureGate", false);
